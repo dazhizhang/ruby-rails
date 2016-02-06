@@ -1,0 +1,16 @@
+具体可以参考这篇文章
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04
+
+已经安装好了rbenv的同学，请注意先运行以下命令，安装好了一些必要的依赖软件包之后再安装rails
+
+sudo apt-get update
+sudo apt-get install git-core curl zlib1g-dev build-essential
+sudo apt-get install libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3
+sudo apt-get install libxml2-dev libxslt1-dev libcurl4-openssl-dev
+sudo apt-get install python-software-properties libffi-dev
+sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+sudo apt-get install nodejs
+
+用gem安装rails
+gem install rails
+rails -v 安装成功后此命令会显示安装的rails的版本
