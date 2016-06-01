@@ -1,3 +1,6 @@
 
 Rails使用Devise验证用户
 http://blog.csdn.net/hacky_way/article/details/9119839
+
+Rails4 + devise + rails_admin + cancancan实现权限管理
+https://danielzhangqinglong.github.io/2015/03/31/rails-cancan-login/
