@@ -14,3 +14,5 @@ sudo apt-get install nodejs
 用gem安装rails
 gem install rails
 rails -v 安装成功后此命令会显示安装的rails的版本
+
+https://ruby-china.org/wiki/rbenv-guide
