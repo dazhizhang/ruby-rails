@@ -28,3 +28,5 @@ Metaprogramming Ruby的中文版 ：http://harrifeng.github.io/notes/ruby/meta.h
 
 上面两个中文版的首页 ：http://harrifeng.github.io/sitemap.html
 
+Ruby 词法结构 https://github.com/wusuopu/Ruby-tutorial/blob/master/2.lexical_structure.md
+
