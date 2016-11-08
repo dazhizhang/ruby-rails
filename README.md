@@ -23,3 +23,8 @@ Ruby on Rails Tutorial: Learn Web Development with Rails - ROR基础
 Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development - ROR高级
 
 Eloquent的中文版在这里 http://harrifeng.github.io/notes/ruby/eloquent.html
+
+Metaprogramming Ruby的中文版 ：http://harrifeng.github.io/notes/ruby/meta.html#sec-1
+
+上面两个中文版的首页 ：http://harrifeng.github.io/sitemap.html
+
