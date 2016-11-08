@@ -21,3 +21,5 @@ Metaprogramming Ruby - 元编程
 Ruby Under a Microscope: An Illustrated Guide to Ruby Internals - 内部实现
 Ruby on Rails Tutorial: Learn Web Development with Rails - ROR基础
 Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development - ROR高级
+
+Eloquent的中文版在这里 http://harrifeng.github.io/notes/ruby/eloquent.html
