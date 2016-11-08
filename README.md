@@ -30,3 +30,4 @@ Metaprogramming Ruby的中文版 ：http://harrifeng.github.io/notes/ruby/meta.h
 
 Ruby 词法结构 https://github.com/wusuopu/Ruby-tutorial/blob/master/2.lexical_structure.md
 
+Ruby Glossary : https://www.codecademy.com/articles/glossary-ruby
