@@ -48,4 +48,5 @@ https://ruby-china.org/topics/10414
 
 Rails
 rails tutorail 中文版 : https://railstutorial-china.org/rails3/chapter1.html
+rails tutorial 英文版 ：https://www.railstutorial.org/book
 
