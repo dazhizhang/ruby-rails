@@ -47,5 +47,5 @@ http://rubyer.me/blog/917/
 https://ruby-china.org/topics/10414
 
 Rails
-rails tutorail : https://railstutorial-china.org/rails3/chapter1.html
+rails tutorail 中文版 : https://railstutorial-china.org/rails3/chapter1.html
 
